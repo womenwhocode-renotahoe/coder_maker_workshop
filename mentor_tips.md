@@ -1,7 +1,7 @@
 # Workshop Agenda
 | Time | Topic |
 | ---- | ----- |
-| 9:45am | mentors arrive |
+| 09:45am | mentors arrive |
 | 10:00am | participants checkin |
 | 10:15am | **Lightning Talk - Internet (all participants)** |
 | 10:20am | **Lightning Talk - Soldering (makers)** |
@@ -11,9 +11,9 @@
 | 12:30pm | **Lightning Talk - Soldering (makers)** |
 | 12:30pm | **Lightning Talk - Websites (coders)** |
 | 12:45pm | hands on session |
-| 2:15pm | **What to Try Next** |
-| 2:30pm | hands on session |
-| 4:00pm | end |
+| 02:15pm | **What to Try Next** |
+| 02:30pm | hands on session |
+| 04:00pm | end |
 
 # Coders
 Participants who have signed up for coding will be creating a website that uses an API to read temperatures from an Internet connected device.  
