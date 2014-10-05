@@ -12,5 +12,6 @@ Makers will solder their own circuits and then take their creations home.
 ##Sponsors
 Generous sponsors have made it possible to hold this free workshop.
 
+| --------- | ------------ |
 | ![Town of Truckee](/sponsor_logos/Town_of_Truckee.png) | <http://www.townoftruckee.com |
 | ![Freeside](/sponsor_logos/Freeside_Internet_Services.png | <http://www.freeside.biz |
