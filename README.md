@@ -2,11 +2,13 @@ coder_maker_workshop
 ====================
 
 #New Coder/New Maker Workshop
+
 October 11, 2014, 10am to 4pm
-The Lift Co-working Space
-12242 Business Park Dr, Truckee, CA
-Suite 19
-Truckee, CA 96161
+
+The Lift Co-working Space  
+12242 Business Park Dr, Suite 19  
+Truckee, CA
+
 
 ##Coders
 Coders will create a website to display the temperature recorded by an Internet connected device. They'll have their own website to use for one month to continue coding on their own.
