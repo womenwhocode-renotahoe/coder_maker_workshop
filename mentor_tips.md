@@ -1,5 +1,5 @@
 # Mentor Tips
-Thank you for mentoring!  It's awesome :)  We'll have a large variety of experience levels and ages among our participants.  You'll be working directly with two participants.  You'll hand out their instructions and materials and coach them through the coding steps.  (Maker coaching will be done directly at the soldering stations.)
+Thank you for mentoring!  It's awesome :)  We'll have a large variety of experience levels and ages among our participants. [Recommendations for young participants](http://techbridgegirls.org/rolemodelsmatter/tool/giving-girlsfeedback/) You'll be working directly with two participants.  You'll hand out their instructions and materials and coach them through the coding steps.  (Maker coaching will be done directly at the soldering stations.)
 
 The instructions are deliberately incomplete so that each participant can customize their website.  Help participants learn by encouraging them to:
 - look up answers on the Internet (make sure they only find safe sites)
