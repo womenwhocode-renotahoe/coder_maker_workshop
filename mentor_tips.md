@@ -1,7 +1,16 @@
+# Mentor Tips
+Thank you for mentoring!  It's awesome :)  We'll have a large variety of experience levels and ages among our participants.  You'll be working directly with two participants.  You'll hand out their instructions and materials and coach them through the steps.
 
+The instructions are deliberately incomplete so that each participant can customize their website.  Help participants learn by encouraging them to:
+- look up answers on the Internet (make sure they only find safe sites)
+- experiment (try their ideas, making it clear it is okay if they don't work)
+- guess (give them hints, not the answers)
 
-# Coders
-Participants who have signed up for coding will be creating a website that uses an API to read temperatures from an Internet connected device.  
+Coders will spending all three hands-on sessions coding and can do all steps.
+
+Coder/Makers will spend two hands-on sessions coding and one hands-on session making.  They should complete steps without letter suffixes.
+
+Makers will spend all three hands-on sessions making.
 
 ## Privacy
 We're specifically not asking for last names, email addresses or locations from any workshop participant.  Please use first names only and to personalize introductions, talk about why you like programming or making.
