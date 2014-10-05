@@ -18,13 +18,13 @@ Makers will spend all three hands-on sessions making.
 We're specifically not asking for last names, email addresses or locations from any workshop participant.  Please use first names only and to personalize introductions, talk about why you like programming or making.
 
 ## Famous Women
-We're using a theme of famous women for the content and names we're using in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should inlude some information about that woman.
+We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should inlude some information about that woman.
 
 ## Save to Desktop
 Participants should save all their work to a folder on the desktop called **tempbug**.  This will minimize the chance of permission issues on Guest logins or participants losing their work on an unfamiliar laptop.
 
-## No Downloads
-Since most of the participants are working on borrowed laptop, the workshop is designed to use native tools; i.e. Text edit instead of Sublime, ftp commands instead of Filezilla.  We want the participants to be able to carry on without having a specific computer of their own.  
+## Native Tools
+Since most of the participants are working on borrowed laptop, the workshop is designed to use native tools; i.e. Text edit instead of Sublime, ftp commands instead of Filezilla.  We want the participants to be able to carry on without having a specific computer of their own.  Unless the participant is an adult with their own laptop, don't recommend downloading any tools.  Laptops provided by LTOL will have tools on them.
 
 ## HTML Document
 In order to be able to use native tools to make the index.html document for the website, you'll need to make some configuration changes on both Mac and PC.   Generally,  you'll find it easier to create the document, then edit the file name directly to make sure it is just index.html
