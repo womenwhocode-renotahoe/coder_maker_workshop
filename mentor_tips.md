@@ -36,7 +36,7 @@ Use Notepad on PC to create the html document.  To run Notepad, type Windows + R
 Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Edit then configure to allow creation of HTML documents with these [instructions](http://support.apple.com/kb/TA20406)
 
 ## FTP Instructions
-Each coding participant will have a card with credentials for their own personal website.  FTP address, FTP username, FTP password
+At checkin, each coding participant will be given a card with credentials for their own personal website.  FTP address, FTP username, FTP password
 - Mac use Terminal (search with Spotlight), PC use Command Prompt (Windows key + R, then cmd)
 - navigate to tempbug folder on desktop
 - ftp ftp.address.com
