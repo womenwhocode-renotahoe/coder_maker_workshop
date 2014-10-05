@@ -13,11 +13,11 @@ Since most of the participants are working on borrowed laptop, the workshop is d
 ## HTML Document
 In order to be able to use native tools to make the index.html document for the website, you'll need to make some configuration changes on both Mac and PC.   Generally,  you'll find it easier to create the document, then edit the file name directly to make sure it is just index.html
 
-  ### PC
-  Use Notepad on PC to create the html document.  To run Notepad, type Windows + R, notepad. The default extension will be .txt   To change this, use Windows + E for Windows Explorer, find Tools (XP), Organize (W7) then View (W8) and check the box required to show file extensions.  The find index.txt in Windows Explorer and rename to index.html
+### PC
+Use Notepad on PC to create the html document.  To run Notepad, type Windows + R, notepad. The default extension will be .txt   To change this, use Windows + E for Windows Explorer, find Tools (XP), Organize (W7) then View (W8) and check the box required to show file extensions.  The find index.txt in Windows Explorer and rename to index.html
 
-  ### Mac
-  Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Edit then configure to allow creation of HTML documents with these [instructions](http://support.apple.com/kb/TA20406)
+### Mac
+Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Edit then configure to allow creation of HTML documents with these [instructions](http://support.apple.com/kb/TA20406)
 
 ## FTP Instructions
 Each coding participant will have a card with credentials for their own personal website.  FTP address, FTP username, FTP password
