@@ -1,0 +1,92 @@
+.swatch {
+  padding: 40px;
+  margin: 10px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.hearts-red {
+  background: url("hearts-red.jpg") repeat;
+}
+
+.hearts-pink {
+  background: url("hearts-pink.jpg") repeat;
+}
+
+.hearts-gray {
+  background: url("hearts-gray.jpg") repeat;
+}
+
+.love {
+  background: url("love.png") repeat;
+}
+
+.salmon {
+  background-color: #d85e5e;
+}
+
+.orange {
+  background-color: #ffae6a;
+}
+
+.pink {
+  background-color: #ff6c6c;
+}
+
+.light-pink {
+  background-color: #fdc8c8;
+}
+
+.blue {
+  background-color: #74a3fa;
+}
+
+.teal {
+  background-color: #b2fffc;
+}
+
+.seafoam {
+  background-color: #30eae1;
+}
+
+.alfa-font {
+  background-color: black;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.permanent-marker-font {
+  background-color: black;
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.nova-font {
+  background-color: black;
+  color: white;
+  font-family: 'Nova Mono', cursive;
+}
+
+.mono-font {
+  background-color: black;
+  color: white;
+  font-family: 'Monoton', cursive;
+}
+
+.start-font {
+  background-color: black;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.bowlby-font {
+  background-color: black;
+  color: white;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.cursive-font {
+  background-color: black;
+  color: white;
+  font-family: 'Cedarville Cursive', cursive;
+}
