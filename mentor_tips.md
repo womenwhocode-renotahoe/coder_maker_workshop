@@ -35,6 +35,10 @@ Use Notepad on PC to create the html document.  To run Notepad, type Windows + R
 #### Mac
 Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Edit then configure to allow creation of HTML documents with these [instructions](http://support.apple.com/kb/TA20406)
 
+##CSS Sample Styles
+To help participants during the CSS steps, refer to the [sample styles](http://womenwhocode-renotahoe.github.io/sample_styles/)
+To use the images, type the name on the images after the URL to display it, then right click and Save As to the tempbug folder.
+
 ## FTP Instructions
 At checkin, each coding participant will be given a card with credentials for their own personal website.  FTP address, FTP username, FTP password
 - Mac use Terminal (search with Spotlight), PC use Command Prompt (Windows key + R, then cmd)
