@@ -49,4 +49,8 @@ At checkin, each coding participant will be given a card with credentials for th
 - put *
 - exit
 
+## Maker Safety
+Help new makers clip component ends; these ends are sharp.  Have them turn their faces away.   Try to capture clipped ends and throw them away before continuing.
+
+Solder irons should be held like a pencil but make sure new makers don't hold their fingers too close to the hot part of the iron.  They should 'choke up' on the handle part to keep fingertips safe.
 
