@@ -35,16 +35,19 @@ Use Notepad on PC to create the html document.  To run Notepad, type Windows + R
 #### Mac
 Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Edit then configure to allow creation of HTML documents with these [instructions](http://support.apple.com/kb/TA20406)
 
-##CSS Sample Styles
+## CSS Sample Styles
 To help participants during the CSS steps, refer to the [sample styles](http://womenwhocode-renotahoe.github.io/sample_styles/)
 To use the images, type the name on the images after the URL to display it, then right click and Save As to the tempbug folder. Be sure to include the following Google Fonts API in header of HTML document, \<link href="http://fonts.googleapis.com/css?family=Alfa+Slab+One|Permanent+Marker|Nova+Mono|Monoton|Press+Start+2P|Bowlby+One+SC|Cedarville+Cursive" rel="stylesheet" type="text/css"\> if sample styles fonts are used.
 
+## Example Tempbug Website
+An example website based on the handout materials can be found at (http://workshop.womenwhocoderenotahoe.com) and the code for this example site has been uploaded to the website folder on this repo.
+
 ## FTP Instructions
-At checkin, each coding participant will be given a card with credentials for their own personal website.  FTP address, FTP username, FTP password
+At checkin, each coding participant will be given a card with credentials (FTP address, FTP username, FTP password) for their own personal website for use at this workshop and one month beyond. 
 - Mac use Terminal (search with Spotlight), PC use Command Prompt (Windows key + R, then cmd)
 - navigate to tempbug folder on desktop
 - ftp ftp.address.com
-- enter ftp username and password
+- enter ftp username and ftp password
 - cd public_html
 - put index.html (use put command for each file)
 - quit
