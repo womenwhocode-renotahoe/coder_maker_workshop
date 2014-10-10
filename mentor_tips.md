@@ -18,7 +18,7 @@ The coding instructions are deliberately incomplete so that each participant can
 We're specifically not asking for last names, email addresses or locations from any workshop participant.  Please use first names only and to personalize introductions, talk about why you like programming or making.
 
 ## Famous Women
-We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should inlude some information about that woman.
+We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should include some information about that woman.
 
 ## Save to Desktop
 Participants should save all their work to a folder on the desktop called **tempbug**.  This will minimize the chance of permission issues on Guest logins or participants losing their work on an unfamiliar laptop.
