@@ -18,7 +18,7 @@ The coding instructions are deliberately incomplete so that each participant can
 We're specifically not asking for last names, email addresses or locations from any workshop participant.  Please use first names only and to personalize introductions, talk about why you like programming or making.
 
 ## Famous Women
-We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should include some information about that woman.
+We're using a theme of famous women of computer science.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman.  Participants will access sensor data from a tempbug and content on their website should be about their tempbug's namesake.
 
 ## Save to Desktop
 Participants should save all their work to a folder on the desktop called **tempbug**.  This will minimize the chance of permission issues on Guest logins or participants losing their work on an unfamiliar laptop.
@@ -40,7 +40,7 @@ To help participants during the CSS steps, refer to the [sample styles](http://w
 To use the images, type the name on the images after the URL to display it, then right click and Save As to the tempbug folder. Be sure to include the following Google Fonts API in header of HTML document, \<link href="http://fonts.googleapis.com/css?family=Alfa+Slab+One|Permanent+Marker|Nova+Mono|Monoton|Press+Start+2P|Bowlby+One+SC|Cedarville+Cursive" rel="stylesheet" type="text/css"\> if sample styles fonts are used.
 
 ## Example Tempbug Website
-An example website based on the handout materials can be found at (http://workshop.womenwhocoderenotahoe.com) and the code for this example site has been uploaded to the website folder on this repo.
+An example website based on the handout materials can be found at (http://workshop.womenwhocoderenotahoe.com) and the code for this example site has been uploaded to the website folder on this repo.  There are 5 tempbugs (Pinoccio Scouts) in various locations near the venue and each participant will be given a card holding information required to access the sensor readings from one of these tempbugs.  
 
 ## FTP Instructions
 At checkin, each coding participant will be given a card with credentials (FTP address, FTP username, FTP password) for their own personal website for use at this workshop and one month beyond. 
