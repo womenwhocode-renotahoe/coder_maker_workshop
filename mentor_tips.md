@@ -18,7 +18,7 @@ The coding instructions are deliberately incomplete so that each participant can
 We're specifically not asking for last names, email addresses or locations from any workshop participant.  Please use first names only and to personalize introductions, talk about why you like programming or making.
 
 ## Famous Women
-We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should inlude some information about that woman.
+We're using a theme of famous women in the workshop.  This is to promote women in STEM and inspire the participants.  Each tempbug is named for a famous woman and the content on each website should include some information about that woman.
 
 ## Save to Desktop
 Participants should save all their work to a folder on the desktop called **tempbug**.  This will minimize the chance of permission issues on Guest logins or participants losing their work on an unfamiliar laptop.
@@ -37,7 +37,7 @@ Use Text Edit on Mac to create the HTML document.  Use spotlight to find Text Ed
 
 ##CSS Sample Styles
 To help participants during the CSS steps, refer to the [sample styles](http://womenwhocode-renotahoe.github.io/sample_styles/)
-To use the images, type the name on the images after the URL to display it, then right click and Save As to the tempbug folder.
+To use the images, type the name on the images after the URL to display it, then right click and Save As to the tempbug folder. Be sure to include the following Google Fonts API in header of HTML document, \<link href="http://fonts.googleapis.com/css?family=Alfa+Slab+One|Permanent+Marker|Nova+Mono|Monoton|Press+Start+2P|Bowlby+One+SC|Cedarville+Cursive" rel="stylesheet" type="text/css"\> if sample styles fonts are used.
 
 ## FTP Instructions
 At checkin, each coding participant will be given a card with credentials for their own personal website.  FTP address, FTP username, FTP password
@@ -46,8 +46,8 @@ At checkin, each coding participant will be given a card with credentials for th
 - ftp ftp.address.com
 - enter ftp username and password
 - cd public_html
-- put *
-- exit
+- put index.html (use put command for each file)
+- quit
 
 ## Maker Safety
 Help new makers clip component ends; these ends are sharp.  Have them turn their faces away.   Try to capture clipped ends and throw them away before continuing.
