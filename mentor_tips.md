@@ -46,7 +46,7 @@ At checkin, each coding participant will be given a card with credentials for th
 - ftp ftp.address.com
 - enter ftp username and password
 - cd public_html
-- put *
+- put index.html (use put command for each file)
 - quit
 
 ## Maker Safety
