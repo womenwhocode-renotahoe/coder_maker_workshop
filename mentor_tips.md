@@ -47,7 +47,7 @@ At checkin, each coding participant will be given a card with credentials for th
 - enter ftp username and password
 - cd public_html
 - put *
-- exit
+- quit
 
 ## Maker Safety
 Help new makers clip component ends; these ends are sharp.  Have them turn their faces away.   Try to capture clipped ends and throw them away before continuing.
