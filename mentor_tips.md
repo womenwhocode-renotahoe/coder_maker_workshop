@@ -52,6 +52,9 @@ At checkin, each coding participant will be given a card with credentials (FTP a
 - put index.html (use put command for each file)
 - quit
 
+## Respect Copyrights
+When helping coders find images or examples, make sure to talk to them about respecting copyrights and other intellectual property.  If there is interest, discuss open course options.
+
 ## Maker Safety
 Help new makers clip component ends; these ends are sharp.  Have them turn their faces away.   Try to capture clipped ends and throw them away before continuing.
 
