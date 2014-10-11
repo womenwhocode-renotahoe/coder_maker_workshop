@@ -1,20 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-	// Grab the value element
-	var value = document.getElementById('value');
-
 	// Initialize the Pinoccio API with a read-only token
 	// https://docs.pinocc.io/api.html#readonly-token
-	var api = pinoccioAPI('afb296a1436ea5746c9adaaf2af55d94');
-
-	// Initialize the sync stream with {stale:1}
-	// https://docs.pinocc.io/api.html#realtime-stream-of-changes
-	var s = api.sync({stale:1});
-
-	// When the sync stream gets data
-	s.on('data', function(data){
-	  // If it's the value we want, set the value element text
-	  if (data.type === 'temp' && data.troop === '3' && data.scout === '1') {
-	    value.innerHTML = data.value.f;
-	  }
-	})
+	var api = pinoccioAPI('6d160c6dd00821d891cc3f955b63fe89');
+	
+	// Initialize the Temperature control
+	// Parameters: Pinoccio API, Troop number, and Scout number
+	temperature = new Temperature(api, 3, 1);
+	
+	temperature.color(90, 'orangered');
+	temperature.color(70, 'coral');
+	temperature.color(50, 'lightpink');
 });
