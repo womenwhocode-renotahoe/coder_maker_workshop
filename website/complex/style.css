@@ -1,0 +1,40 @@
+html {
+	font-family: Arial, sans-serif;
+	background: black;
+}
+
+body.hot {
+	background: linear-gradient(to bottom, #f0ad45, #ba1420);
+}
+
+body.cold {
+	background: linear-gradient(to bottom, #2b4079, #665c99, #aecfd6, #5d79ba, #4a356e);
+}
+
+#content {
+	max-width: 60%;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+
+#thermometer-shell {
+	position: relative;
+	width: 154px;
+	height: 476px;
+	
+	background: url("thermometer.png") no-repeat scroll bottom transparent;
+}
+
+#thermometer-shell div {
+	position: absolute;
+	bottom: 0;
+	left: 0; right: 0;
+	background: url("thermometer-full.png") no-repeat scroll bottom transparent;
+	
+	color: #00ff06;
+	font-size: 10em;
+	text-indent: 1em;
+}
+
+#thermometer-shell div:after { content: "ºF"; }
