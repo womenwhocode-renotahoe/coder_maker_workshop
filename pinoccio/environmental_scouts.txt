@@ -1,0 +1,21 @@
+HQ Login:
+
+Username: veronicac
+Password: vc123
+
+Scout IDs
+Lead: 1
+Field 1: 2
+Field 2: 3
+
+The read-only token is 16eed973ef03a70b087d8bece0236f0e
+
+Barometric pressure in kilopascals:  env.baro.kpa 
+Barometric pressure in millibar:  env.baro.mbar 
+Barometric pressure in mm. hg:  env.baro.mmhg 
+Barometric pressure in in. hg:  env.baro.inhg
+
+Light measurement in lux:  env.light.lux 
+Light measurement--visible:  env.light.visible 
+Light measurement--infrared:  env.light.ir 
+Light measurement--full:  env.light.full

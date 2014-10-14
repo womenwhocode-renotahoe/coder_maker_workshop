@@ -1,0 +1,22 @@
+Pinoccio reconfigure wifi
+
+get SSID and password of new WiFi network
+use Mac with Arduino IDE downloaded or use Surface after installing drivers
+
+Plug the board into your computer's USB port, and switch it on.
+
+Make sure that "Pinoccio Scout" is selected under Tools > Board, and that "/dev/tty.usbmodem#" is selected under Tools > Port.
+
+With the "Bootstrap" sketch open and uploaded, click the Serial Monitor icon at the top-right corner of the sketch window. This is how you'll talk to your plugged-in Scout.
+
+Select the following options at the bottom of the Serial Monitor screen: "Autoscroll" (should be checked), "Newline" (or really, any option other than "No line ending"), and "115200 baud".
+
+wifi.config("Network Name", "network-password")
+wifi.dhcp
+wifi.reassociate
+wifi.report
+
+power cycle lead scout
+
+
+http://support.pinocc.io/hc/en-us/articles/201488864-Change-WiFi-Networks
