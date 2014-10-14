@@ -27,6 +27,7 @@ Generous sponsors have made it possible to hold this free workshop.
 | ![New Leaders](/sponsor_logos/New_Leaders.png) | https://newleaders.com |
 | ![Rocket Powered Hosting](/sponsor_logos/Rocket_Powered.png) | http://rocket-powered.com |
 | ![Lucky Dog Consulting](/sponsor_logos/Lucky_Dog_Consulting.png) | http://www.luckydogconsulting.com | 
+| ![Red Hut Cafe](/sponsor_logos/Red_Hut.png) | http://www.redhutcafe.com |
 | ![Swill Coffee Wine](/sponsor_logos/Swill_Coffee_Wine.png) | http://swillreno.com |
 | ![Great Full Gardens](/sponsor_logos/Great_Full_Gardens.png) | http://greatfullgardens.com |
 | ![Pinoccio](/sponsor_logos/pinoccio.png) | http://pinocc.io |
